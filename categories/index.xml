@@ -7,43 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) Sitio desarrollado por &lt;a href=&#39;http://carlogilmar.me/&#39;&gt;@carlogilmar&lt;/a&gt; y &lt;a href=&#39;#&#39;&gt;@onahump&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 16 May 2016 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://agilesmexico.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lorem</title>
-      <link>https://agilesmexico.github.io/categories/lorem/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Agile</title>
+      <link>https://agilesmexico.github.io/categories/agile/</link>
+      <pubDate>Mon, 16 May 2016 13:07:31 +0200</pubDate>
       
-      <guid>https://agilesmexico.github.io/categories/lorem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://agilesmexico.github.io/categories/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://agilesmexico.github.io/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pseudo</title>
-      <link>https://agilesmexico.github.io/categories/pseudo/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://agilesmexico.github.io/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starting</title>
-      <link>https://agilesmexico.github.io/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://agilesmexico.github.io/categories/starting/</guid>
+      <guid>https://agilesmexico.github.io/categories/agile/</guid>
       <description></description>
     </item>
     

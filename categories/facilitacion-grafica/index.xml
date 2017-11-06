@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Agiles México</title>
-    <link>https://agilesmexico.github.io/blog/</link>
-    <description>Recent content in Blogs on Agiles México</description>
+    <title>Facilitacion Grafica on Agiles México</title>
+    <link>https://agilesmexico.github.io/categories/facilitacion-grafica/</link>
+    <description>Recent content in Facilitacion Grafica on Agiles México</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) Sitio desarrollado por &lt;a href=&#39;http://carlogilmar.me/&#39;&gt;@carlogilmar&lt;/a&gt; y &lt;a href=&#39;#&#39;&gt;@onahump&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://agilesmexico.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agilesmexico.github.io/categories/facilitacion-grafica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>Post original en Medium
 Recientemente se llevó a cabo el Taller de Sketchnoting: Organiza y explica tus ideas con notas visuales. Una vez más lo que me llevo de experiencias como ésta, es la nobleza detrás de la práctica de herramientas visuales como el sketchnoting, que nos ayuda a descubrir otros caminos para comunicarnos.
 Puntos de encuentro inesperados Una de las prácticas que despertaron mucho interés de los participantes, fue la construcción de un vocabulario visual en el que se representaron conceptos abstractos sólo con íconos o símbolos.</description>
-    </item>
-    
-    <item>
-      <title>Y qué es un Agile Open Space?</title>
-      <link>https://agilesmexico.github.io/blog/2016/05/16/open-space/</link>
-      <pubDate>Mon, 16 May 2016 13:07:31 +0200</pubDate>
-      
-      <guid>https://agilesmexico.github.io/blog/2016/05/16/open-space/</guid>
-      <description>El Open Space es una desconferencia en la que el ambiente es fértil para el aprendizaje. Además es ágil ya que en él se viven varias prácticas, principios y valores de la agilidad, como la auto-organización, el time boxing, la colaboración, la facilitación gráfica y muchos más.
-Las sorpresas comienzan desde el momento en que nos dicen: todo puede pasar, comienza cuando tiene que comenzar y termina cuando tiene que terminar.</description>
     </item>
     
   </channel>

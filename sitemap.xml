@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://agilesmexico.github.io/blog/2017/06/22/facilitaciongrafica/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://agilesmexico.github.io/blog/2016/05/16/open-space/</loc>
     <lastmod>2016-05-16T13:07:31+02:00</lastmod>
   </url>
@@ -15,13 +20,13 @@
   
   <url>
     <loc>https://agilesmexico.github.io/</loc>
-    <lastmod>2016-05-16T13:07:31+02:00</lastmod>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agilesmexico.github.io/blog/</loc>
-    <lastmod>2016-05-16T13:07:31+02:00</lastmod>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,8 +45,26 @@
   </url>
   
   <url>
+    <loc>https://agilesmexico.github.io/categories/facilitacion-grafica/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://agilesmexico.github.io/tags/open-space/</loc>
     <lastmod>2016-05-16T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agilesmexico.github.io/categories/sketchnoting/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agilesmexico.github.io/tags/sketchnoting/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

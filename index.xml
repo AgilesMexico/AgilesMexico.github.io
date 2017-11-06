@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) Sitio desarrollado por &lt;a href=&#39;http://carlogilmar.me/&#39;&gt;@carlogilmar&lt;/a&gt; y &lt;a href=&#39;#&#39;&gt;@onahump&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 16 May 2016 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://agilesmexico.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>El Sketchnoting provoca conversaciones</title>
+      <link>https://agilesmexico.github.io/blog/2017/06/22/facilitaciongrafica/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://agilesmexico.github.io/blog/2017/06/22/facilitaciongrafica/</guid>
+      <description>Post original en Medium
+Recientemente se llevó a cabo el Taller de Sketchnoting: Organiza y explica tus ideas con notas visuales. Una vez más lo que me llevo de experiencias como ésta, es la nobleza detrás de la práctica de herramientas visuales como el sketchnoting, que nos ayuda a descubrir otros caminos para comunicarnos.
+Puntos de encuentro inesperados Una de las prácticas que despertaron mucho interés de los participantes, fue la construcción de un vocabulario visual en el que se representaron conceptos abstractos sólo con íconos o símbolos.</description>
+    </item>
     
     <item>
       <title>Y qué es un Agile Open Space?</title>
@@ -28,8 +39,7 @@ Las sorpresas comienzan desde el momento en que nos dicen: todo puede pasar, com
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agilesmexico.github.io/contact/</guid>
-      <description>We are here to help you Hola a todos!!! Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+      <description> Social Media Agiles México  Facebook Twitter Github Slack  </description>
     </item>
     
     <item>
@@ -38,8 +48,9 @@ Please feel free to contact us, our customer service center is working for you 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agilesmexico.github.io/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <description>¿Quieres ser patrocinador de uno de nuestros eventos? Deseamos explorar contigo la posibilidad de contar con tu apoyo como patrocinador en algún de nuestros eventos.
+Los eventos son organizados por la comunidad Ágiles México, y busca promover la adopción de metodologías ágiles. Cada mes tenemos un Meetup gratuito y abierto a la comunidad y cada vez crece más en número de participantes.
+Dentro de las actividades de la comunidad se encuentra Agile Open, un formato Open Space o «desconferencia» en un espacio abierto donde los asistentes forman parte activa de la generación de contenido y en el que la autoorganización se vive en la misma conformación del evento.</description>
     </item>
     
   </channel>

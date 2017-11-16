@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://agilesmexico.github.io/blog/2017/11/16/openspace-carlo/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agilesmexico.github.io/blog/2017/11/16/openspace-ceci/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://agilesmexico.github.io/blog/2017/06/22/facilitaciongrafica/</loc>
@@ -13,26 +22,31 @@
   </url>
   
   <url>
+    <loc>https://agilesmexico.github.io/tags/agile/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://agilesmexico.github.io/categories/agile/</loc>
-    <lastmod>2016-05-16T13:07:31+02:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agilesmexico.github.io/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agilesmexico.github.io/blog/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://agilesmexico.github.io/categories/</loc>
-    <lastmod>2016-05-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,6 +71,18 @@
   </url>
   
   <url>
+    <loc>https://agilesmexico.github.io/tags/openspace/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://agilesmexico.github.io/categories/openspace/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://agilesmexico.github.io/tags/sketchnoting/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -70,7 +96,6 @@
   
   <url>
     <loc>https://agilesmexico.github.io/tags/</loc>
-    <lastmod>2016-05-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   

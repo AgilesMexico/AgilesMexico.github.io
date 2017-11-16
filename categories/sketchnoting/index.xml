@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketchnoting on Agiles México</title>
-    <link>https://agilesmexico.github.io/categories/sketchnoting/</link>
+    <link>https://agilesmexico.github.io/categories/sketchnoting/index.xml</link>
     <description>Recent content in Sketchnoting on Agiles México</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) Sitio desarrollado por &lt;a href=&#39;http://carlogilmar.me/&#39;&gt;@carlogilmar&lt;/a&gt; y &lt;a href=&#39;#&#39;&gt;@onahump&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://agilesmexico.github.io/categories/sketchnoting/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://agilesmexico.github.io/categories/sketchnoting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>El Sketchnoting provoca conversaciones</title>
@@ -18,9 +15,27 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://agilesmexico.github.io/blog/2017/06/22/facilitaciongrafica/</guid>
-      <description>Post original en Medium
-Recientemente se llevó a cabo el Taller de Sketchnoting: Organiza y explica tus ideas con notas visuales. Una vez más lo que me llevo de experiencias como ésta, es la nobleza detrás de la práctica de herramientas visuales como el sketchnoting, que nos ayuda a descubrir otros caminos para comunicarnos.
-Puntos de encuentro inesperados Una de las prácticas que despertaron mucho interés de los participantes, fue la construcción de un vocabulario visual en el que se representaron conceptos abstractos sólo con íconos o símbolos.</description>
+      <description>
+
+&lt;p&gt;Post original en &lt;a href=&#34;https://medium.com/@fernandoprezguajardo/el-sketchnoting-provoca-conversaciones-b866966c765a&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recientemente se llevó a cabo el Taller de Sketchnoting: Organiza y explica tus ideas con notas visuales. Una vez más lo que me llevo de experiencias como ésta, es la nobleza detrás de la práctica de herramientas visuales como el sketchnoting, que nos ayuda a descubrir otros caminos para comunicarnos.&lt;/p&gt;
+
+&lt;h4 id=&#34;puntos-de-encuentro-inesperados&#34;&gt;Puntos de encuentro inesperados&lt;/h4&gt;
+
+&lt;p&gt;Una de las prácticas que despertaron mucho interés de los participantes, fue la construcción de un vocabulario visual en el que se representaron conceptos abstractos sólo con íconos o símbolos.
+Al momento de exponer cada quien su ejercicio, quedó claro como todos coincidimos en la forma de visualizar términos como procesos, crecimiento o ganancia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/sketchnoting/image1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto abre la puerta a tener puntos de encuentro en la comunicación, al evocar de la misma forma los conceptos. Algunos llevaron el ejercicio más allá; utilizaron un conjunto de imágenes como una suerte de metáfora visual, la cual ampliaba el significado y de ahí que se “engancha” la conversación con un: “¿Por qué dibujaste eso?”. Con esta pregunta podemos abrir nuestro espacio a introducir al otro a nuestro universo y que se familiarice con nuestra concepción de los significados.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/sketchnoting/image2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra coincidencia de los participantes fue el practicar esta herramienta como una alternativa para convertir el tedio de las juntas en tiempo de trabajo productivo con resultados y acuerdos definidos.&lt;/p&gt;
+
+&lt;p&gt;Para ver más sobre cómo se desarrollo este taller, te invito a ver este &lt;a href=&#34;https://www.youtube.com/watch?v=wDCj7W2mF68&amp;amp;feature=youtu.be&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,15 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Agiles México</title>
-    <link>https://agilesmexico.github.io/blog/</link>
+    <link>https://agilesmexico.github.io/blog/index.xml</link>
     <description>Recent content in Blogs on Agiles México</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) Sitio desarrollado por &lt;a href=&#39;http://carlogilmar.me/&#39;&gt;@carlogilmar&lt;/a&gt; y &lt;a href=&#39;#&#39;&gt;@onahump&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://agilesmexico.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://agilesmexico.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#AgilesMX17 Reseña</title>
+      <link>https://agilesmexico.github.io/blog/2017/11/16/openspace-carlo/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://agilesmexico.github.io/blog/2017/11/16/openspace-carlo/</guid>
+      <description>
+
+&lt;p&gt;Author: &lt;a href=&#34;https://twitter.com/carlogilmar&#34;&gt;@carlogilmar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Post original en &lt;a href=&#34;http://carlogilmar.me/post/openspace/&#34;&gt;carlogilmar.me&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;el-evento&#34;&gt;El evento&lt;/h3&gt;
+
+&lt;p&gt;Tuve la oportunidad de ir a mi tercer Open Space organizado por la comunidad de Ágiles México. Esta vez me sentí muy diferente del primer Open Space del año pasado, cuando apenas comenzaba a comprender todo esto de la agilidad y el software desde la perspectiva de un alumno universitario, esta vez lo hago desde la perspectiva de un desarrollador de software.&lt;/p&gt;
+
+&lt;p&gt;El Open Space es una dinámica muy propia de comunidades ágiles, y muy única, es un espacio donde los asistentes nos organizamos para crear la agenda del día con pláticas y talleres propuestos al inicio del día. Con esto es posible crear la agenda para tener al rededor de 7-8 charlas simultáneas por hora.&lt;/p&gt;
+
+&lt;p&gt;En el primer Open Space, allá por Mayo del 2016, asistí a muchas charlas, me ofrecí para hablar acerca de las comunidades tecnológicas y me animé a dibujar el registro gráfico de una charla. En el segundo Open Space me animé a dar una charla sobre Cultura Ágil, a llevar a mi novia, quien se animó a solicitar una charla sobre agilidad fuera del software, y ambos realizamos algunos registros gráficos. Esta vez decidí usar más la ley de los dos pies para encontrar los lugares más interesantes durante este Open Space. Me animé de nuevo a proponer una charla, a realizar los registros gráficos de un par de temas, y a ser asistente a otras más.&lt;/p&gt;
+
+&lt;h3 id=&#34;mi-charla-propuesta&#34;&gt;Mi charla propuesta&lt;/h3&gt;
+
+&lt;p&gt;Esta vez aproveché el espacio para proponer la charla: “Git: procesos y herramientas para mejorar personas y sus interacciones”.&lt;/p&gt;
+
+&lt;p&gt;Como parte del entrenamiento de Github Campus Experts se solicita preparar una charla, y está era la oportunidad de darla por vez primera y obtener todo el feedback posible.&lt;/p&gt;
+
+&lt;p&gt;El tema central es el uso de Git en el desarrollo de software y como su uso individual y en equipo, exige que la comunicación aumente, el objetivo es dar a conocer la herramienta y a grandes rasgos los beneficios que puede dar. Para mi Git es el ejemplo de un software que transforma por si mismo si es que se quiere aprovechar todo lo que ofrece.&lt;/p&gt;
+
+&lt;p&gt;Decidí proponer este tema porque me parece que llega un punto donde el software y las herramientas quedan muy olvidadas. El manifiesto ágil menciona: “personas e interacciones sobre procesos y herramientas”, pero también al final dice “aunque valoramos los elementos de la derecha, valoramos más los de la izquierda”. Esto de ninguna forma significa que no sean importantes. Y creo fielmente que la agilidad es fruto de las interacciones que se han dado en el software, por esto mismo pienso importante llegar a una visión más íntegra donde no perdamos de vista lo prioritario sin dejar de tomar en cuenta lo importante, es decir, si, las personas y sus interacciones son muy importantes, para mi es la piedra angular de muchas cosas, pero sin olvidar que hacemos software, y que no son dos cosas por aparte.&lt;/p&gt;
+
+&lt;p&gt;Afortunadamente las personas que entraron formaron un diálogo muy interesante que me permitió saber cómo puedo mejorar esta charla.&lt;/p&gt;
+
+&lt;p&gt;Aunque los nervios me atraparon por momentos y olvidé muchas cosas que quería platicar, logré hablar de otras como por ejemplo del blog de la comunidad de Ágiles Mexico que junto a un compañero montamos en un proyecto en Github y Github Pages.&lt;/p&gt;
+
+&lt;h3 id=&#34;las-charlas-que-dibujé&#34;&gt;Las charlas que dibujé&lt;/h3&gt;
+
+&lt;p&gt;Esta vez dibujé un par de charlas: “Human Agile” y “Mejorando las habilidades de un equipo de desarrollo”.&lt;/p&gt;
+
+&lt;p&gt;Casi todo el evento, excepto en las sesiones donde dibujé, me la pasé de salón en salón escuchando un poco de los temas que se estaban dando.&lt;/p&gt;
+
+&lt;p&gt;Al inicio hubo una sesión que me llamó mucho la atención. Trataba sobre Driven Desing Domain, un tema técnico, y por lo tanto a su vez era la charla menos concurrida de ese horario. Lo valioso fue ver las interacciones que se generaron con las personas que estaban ahí, pues de una charla bidireccional, donde hay un expositor y un público que escucha, pasó a un diálogo entre los asistentes quienes hacían preguntas, daban puntos de vista, cuestionaban puntos de vista ajenos, e inclusive usaron el pizarrón para construir un esquema comunitario. Pero la parte más importante estuvo en lo que se dijo, me agradó mucho ver a personas que hacen software cuestionándose por sentido común si realmente ágil es algo que pueda ayudar en el software, y logrando reivindicar ágil fuera de los soft skills. Creo que en esencia aquí estuvo mucho del porque nació ágil: buscando mejores formas de hacer software.&lt;/p&gt;
+
+&lt;p&gt;Otra charla que me gustó bastante fue de @itzareyesmx quien hablo de cómo en su empresa mejoraron las habilidades “soft”, “personales”, y “técnicas” del equipo de desarrollo partiendo desde el hecho de saber que ellos desarrollan software y sin perder el foco en esto. Me parece que hoy más que nunca es importante este tipo de charlas, porque pareciera de momento que ágil comienza a divorciarse del software cuando ágil nació por el software. Más que buscar cómo aplicar ágil en otros campos, me parece que la obligación de quienes estamos desarrollando software es precisamente buscar mejores formas de hacerlo.&lt;/p&gt;
+
+&lt;p&gt;Otra parte importante del evento son las interacciones y diálogos que se producen en los pasillos, en el jardín, en la hora de la comida, pues ahí es donde el diálogo se vuelve más espontáneo y más fluido.&lt;/p&gt;
+
+&lt;h5 id=&#34;humildad-para-aceptarte-un-continuo-aprendiz-de-software&#34;&gt;Humildad para aceptarte un continuo aprendiz de software&lt;/h5&gt;
+
+&lt;p&gt;Un día de muchos aprendizajes. Mi palabra que resumió mi día, que mas me impactó y que más se me quedó fue: software.&lt;/p&gt;
+
+&lt;h4 id=&#34;estamos-descubriendo-formas-mejores-de-desarrollar-software-tanto-por-nuestra-propia-experiencia-como-ayudando-a-terceros-a-través-de-este-trabajo-he-aprendido-a-valorar-la-agilidad-y-sus-principios&#34;&gt;Estamos descubriendo formas mejores de desarrollar software tanto por nuestra propia experiencia como ayudando a terceros, a través de este trabajo he aprendido a valorar la agilidad y sus principios.&lt;/h4&gt;
+</description>
+    </item>
     
+    <item>
+      <title>Mi experiencia sobre el #AgilesMX2017</title>
+      <link>https://agilesmexico.github.io/blog/2017/11/16/openspace-ceci/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://agilesmexico.github.io/blog/2017/11/16/openspace-ceci/</guid>
+      <description>
+
+&lt;p&gt;Author: &lt;a href=&#34;https://twitter.com/cecy_no_esta&#34;&gt;@cecy_no_esta&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Post original en &lt;a href=&#34;https://medium.com/@lauracecilia.ramont/mi-experiencia-sobre-el-agilesmx2017-fd6523cff6c1&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El pasado 11 de noviembre tuve la oportunidad de asistir a mi primer Open Space de la comunidad Ágiles México, en el #AgilesMX17. Apenas estoy iniciando a conocer todo el ambiente de las metodologías ágiles de desarrollo de software, así que fui dispuesta a aprender todo lo que pudiera sobre nuevos temas referentes a la cultura ágil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/openspacececi/openspace1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;marketplace&#34;&gt;Marketplace&lt;/h3&gt;
+
+&lt;p&gt;El formato de las charlas me agradó bastante: la idea de que puedas proponer ayuda a los asistentes sobre un tema de tu interés se me hace muy acertada, ya que así todos tienen la oportunidad de aprender algo, de acuerdo a sus intereses y las dudas que buscan resolver; por otro lado, me da gusto ver que entre la comunidad se apoya la iniciativa de los integrantes que proponen sus charlas, ya que en mi caso, como no conozco demasiado del tema, da la oportunidad de descubrir varios puntos de vista sobre aspectos diferentes a toda la cultura ágil. Considero coherente a esto que dependiendo de las charlas que se proponen se vaya organizando la agenda, y creo que aunque se pierde un poco de tiempo en la organización de los horarios y salones se compensa con el hecho de que la agenda vaya de acuerdo a lo que todos quieren escuchar.&lt;/p&gt;
+
+&lt;h3 id=&#34;las-charlas-a-las-que-entré&#34;&gt;Las charlas a las que entré&lt;/h3&gt;
+
+&lt;p&gt;La primera, trató de algunas recomendaciones para convencer a la alta dirección de usar Ágil para el desarrollo de sus proyectos, como mostrar directamente los beneficios económicos que traería su implementación, o experimentar en algunos proyectos de bajo riesgo e iniciar primero con algunos aspectos de la metodología para prueba y error. Entré esta charla pensando más por el lado de convencer a los clientes, ya que estoy iniciando apenas en un proyecto en el que el cliente no ha aceptado algunas recomendaciones de las metodologías ágiles, como hacer un user story mapping para implementar un producto mínimo viable, así que me llevo la cuestión de buscar mostrarles el valor que puede traerles al aceptar este modo de trabajo, y empezar implementando de poco en poco algunos elementos del marco de trabajo de Scrum.&lt;/p&gt;
+
+&lt;p&gt;Después entré a dos charlas referentes al tema de Desing Thinking, del que anteriormente había escuchado pero nada a detalle, y entendí que básicamente se trata de un conjunto de herramientas y procesos para resolver problemas en proyectos que generan conflicto, viéndolos desde otra perspectiva, como en el Desing Sprint, donde se hacen prototipos utilizando técnicas como “the crazy eigths”, que consiste en dibujar 8 ideas en 8 minutos sobre un tema en específico.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/openspacececi/openspace2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra charla que disfruté mucho fue sobre “Retrospectivas divertidas”, donde primero establecimos los pasos básicos que se deben seguir en una retrospectiva (establecer el escenario, recolectar información, generar entendimiento, decidir qué hacer y el cierre) , y después conocí algunas técnicas que se me hicieron muy curiosas para aplicarlas en el proyecto que en el que estoy trabajando en el rol de Product Owner, como el de relacionar tu desempeño y sensación con el nombre de una canción, la cancha de futbol, en la que tomabas alguna posición de los jugadores de acuerdo al papel que desempeñabas en el proyecto y explicabas los motivos de la decisión y el más curioso a mi parecer es la técnica que se usa en los juegos de las bodas donde tienes “algo azul, algo viejo y algo prestado”, y asignas elementos del proyecto a alguno de esos conceptos. Además de estas técnicas nos pasaron algunos recursos de internet para más ideas acerca de las retrospectivas, como Fun Retrospectives o TastyCupcakes .&lt;/p&gt;
+
+&lt;p&gt;Por último pero no menos importante fue la charla a la que entré sobre visual storytelling, que busca ayudar al equipo de trabajo y a los clientes del proyecto a lograr un entendimiento compartido de los proyectos a través de ilustraciones gráficas. Personalmente, siempre me ha llamado la atención el dibujo y la pintura, aunque refiero apreciarlo que llevarlo a la práctica porque no soy muy hábil dibujando, y también me gusta expresar mis ideas con mapas o dibujos porque de esa manera me resulta más practico retener la información, así que tenía que aprovechar este taller. Durante la charla nos dieron algunos tips a tener en cuenta antes y después de iniciar una facilitación gráfica, por ejemplo, la parte narrativa donde tenemos que preguntarnos por qué queremos hacer un proyecto; después, qué es lo que tenemos que hacer para lograrlo y por último cómo pretendemos lograrlo. Una vez que tenemos la estructura narrativa podemos pasar a la estructura visual, donde es recomendable seguir un timeline, utilizar metáforas y trabajar por bloques (fases para llegar al propósito final).&lt;/p&gt;
+
+&lt;p&gt;Al final de las recomendaciones hicimos un ejercicio de “basta visual” , en el que como en el juego de basta alguien deletrea en su mente el abecedario, y cuando alguien escoge una letra todos tenían que dibujar todas las cosas que les vinieran a la mente con esa letra. Aquí me di cuenta de dos cosas: la primera, que no sé dibujar, y la segunda, que en realidad sólo lo he olvidado y necesito practicar, y de esta forma, y con los consejos de la charla, poco a poco podré expresar mejor mis ideas de forma visual.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/openspacececi/openspace3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mi-conclusión&#34;&gt;Mi conclusión&lt;/h3&gt;
+
+&lt;p&gt;El evento me agradó bastante: creo que es una buena oportunidad para los que como yo estamos empezando a conocer sobre la cultura ágil, y descubrir nuevos temas y técnicas interesantes, además de que el formato del marketplace es una muy ideal si necesitas ayuda en un tema en específico, así como para animarte a compartir tu conocimiento con los demás. Espero que la comunidad siga haciendo más eventos así, y que cada vez se incluyan más temas para que todos sigamos aprendiendo más sobre el mundo agile.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>El Sketchnoting provoca conversaciones</title>
@@ -18,9 +112,27 @@
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://agilesmexico.github.io/blog/2017/06/22/facilitaciongrafica/</guid>
-      <description>Post original en Medium
-Recientemente se llevó a cabo el Taller de Sketchnoting: Organiza y explica tus ideas con notas visuales. Una vez más lo que me llevo de experiencias como ésta, es la nobleza detrás de la práctica de herramientas visuales como el sketchnoting, que nos ayuda a descubrir otros caminos para comunicarnos.
-Puntos de encuentro inesperados Una de las prácticas que despertaron mucho interés de los participantes, fue la construcción de un vocabulario visual en el que se representaron conceptos abstractos sólo con íconos o símbolos.</description>
+      <description>
+
+&lt;p&gt;Post original en &lt;a href=&#34;https://medium.com/@fernandoprezguajardo/el-sketchnoting-provoca-conversaciones-b866966c765a&#34;&gt;Medium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recientemente se llevó a cabo el Taller de Sketchnoting: Organiza y explica tus ideas con notas visuales. Una vez más lo que me llevo de experiencias como ésta, es la nobleza detrás de la práctica de herramientas visuales como el sketchnoting, que nos ayuda a descubrir otros caminos para comunicarnos.&lt;/p&gt;
+
+&lt;h4 id=&#34;puntos-de-encuentro-inesperados&#34;&gt;Puntos de encuentro inesperados&lt;/h4&gt;
+
+&lt;p&gt;Una de las prácticas que despertaron mucho interés de los participantes, fue la construcción de un vocabulario visual en el que se representaron conceptos abstractos sólo con íconos o símbolos.
+Al momento de exponer cada quien su ejercicio, quedó claro como todos coincidimos en la forma de visualizar términos como procesos, crecimiento o ganancia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/sketchnoting/image1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto abre la puerta a tener puntos de encuentro en la comunicación, al evocar de la misma forma los conceptos. Algunos llevaron el ejercicio más allá; utilizaron un conjunto de imágenes como una suerte de metáfora visual, la cual ampliaba el significado y de ahí que se “engancha” la conversación con un: “¿Por qué dibujaste eso?”. Con esta pregunta podemos abrir nuestro espacio a introducir al otro a nuestro universo y que se familiarice con nuestra concepción de los significados.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/sketchnoting/image2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra coincidencia de los participantes fue el practicar esta herramienta como una alternativa para convertir el tedio de las juntas en tiempo de trabajo productivo con resultados y acuerdos definidos.&lt;/p&gt;
+
+&lt;p&gt;Para ver más sobre cómo se desarrollo este taller, te invito a ver este &lt;a href=&#34;https://www.youtube.com/watch?v=wDCj7W2mF68&amp;amp;feature=youtu.be&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -29,8 +141,34 @@ Puntos de encuentro inesperados Una de las prácticas que despertaron mucho inte
       <pubDate>Mon, 16 May 2016 13:07:31 +0200</pubDate>
       
       <guid>https://agilesmexico.github.io/blog/2016/05/16/open-space/</guid>
-      <description>El Open Space es una desconferencia en la que el ambiente es fértil para el aprendizaje. Además es ágil ya que en él se viven varias prácticas, principios y valores de la agilidad, como la auto-organización, el time boxing, la colaboración, la facilitación gráfica y muchos más.
-Las sorpresas comienzan desde el momento en que nos dicen: todo puede pasar, comienza cuando tiene que comenzar y termina cuando tiene que terminar.</description>
+      <description>
+
+&lt;h3 id=&#34;el-open-space-es-una-desconferencia-en-la-que-el-ambiente-es-fértil-para-el-aprendizaje&#34;&gt;El Open Space es una desconferencia en la que el ambiente es fértil para el aprendizaje.&lt;/h3&gt;
+
+&lt;p&gt;Además es ágil ya que en él se viven varias prácticas, principios y valores de la agilidad, como la auto-organización, el time boxing, la colaboración, la facilitación gráfica y muchos más.&lt;/p&gt;
+
+&lt;h3 id=&#34;las-sorpresas-comienzan-desde-el-momento-en-que-nos-dicen-todo-puede-pasar-comienza-cuando-tiene-que-comenzar-y-termina-cuando-tiene-que-terminar&#34;&gt;Las sorpresas comienzan desde el momento en que nos dicen: todo puede pasar, comienza cuando tiene que comenzar y termina cuando tiene que terminar.&lt;/h3&gt;
+
+&lt;p&gt;Y continúan cuando todos juntos nos damos a la tarea de armar la agenda, también llamada Marketplace. No es necesario ser experto en el tema para hablar, lo importante es compartir experiencias y aprendizajes.&lt;/p&gt;
+
+&lt;p&gt;Y si alguien tiene algún problema o inquietud también puede levantar la mano y pedir ayuda.  Por eso más que una conferencia, las sesiones tienen formato de charlas, conversatorios y workshops.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://agilesmexico.github.io/img/openspace/os1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;una-vez-organizado-el-marketplace-cada-quien-elige-la-charla-o-workshop-a-cuál-acudir-entonces-aplica-la-regla-de-los-dos-pies-cada-quien-se-mueve-a-dónde-sea-su-interés&#34;&gt;Una vez organizado el Marketplace, cada quien elige la charla o workshop a cuál acudir. Entonces aplica la regla de los dos pies: cada quien se mueve a dónde sea su interés.&lt;/h3&gt;
+
+&lt;p&gt;Normalmente hay temas para todos los perfiles: desde los más técnicos como TDD, BDD, GIT o Patrones de diseño hasta los más soft, como habilidades de comunicación o facilitación gráfica o juegos.&lt;/p&gt;
+
+&lt;p&gt;Para líderes hay temas como Management 3.o o principiantes como Kanban o Scrum.  Para los que no hacen software  o para los que están en educación.&lt;/p&gt;
+
+&lt;p&gt;La agilidad no es teórica; el cambio ocurre cuando empezamos a vivir sus valores y principios.&lt;/p&gt;
+
+&lt;h3 id=&#34;así-que-un-open-space-es-el-lugar-ideal-para-vivir-la-agilidad-sin-importar-la-experiencia-o-los-intereses&#34;&gt;Así que un Open Space es el lugar ideal para vivir la agilidad sin importar la experiencia o los intereses.&lt;/h3&gt;
+
+&lt;p&gt;Todos los Agile Open Space son diferentes y el sabor lo ponemos todos.&lt;/p&gt;
+
+&lt;p&gt;La comunidad ya tiene listas las invitaciones para nuestro Open Space el sábado 28 de mayo de 2016.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
